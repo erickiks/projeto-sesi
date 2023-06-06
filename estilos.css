@@ -1,0 +1,33 @@
+body{
+    color: red;
+    font-family: Verdana, Tahoma, Times;
+    font-size: 45px;
+  }
+  
+  .a{
+    color: rgb(255, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+  }
+  
+  .b{
+    color: rgba(0, 0, 0, 0.741);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+  .c{
+    color: rgba(0, 0, 0, 0.741);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+  .d{
+    color: rgba(0, 0, 0, 0.741);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+  }
+  .e{
+   background-color: rgb(255, 0, 0);
+   color: #000;
+   border: 1px rgb(255, 0, 0);
+   padding:10px;
+  }
